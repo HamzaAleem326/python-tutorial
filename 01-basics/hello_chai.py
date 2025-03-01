@@ -8,5 +8,5 @@ chai("     ya ")
 
 chai_one = "ginger tea"
 chai_two = "lemon tea"
-chai_three = "masala tea"
+chai_three = "masala chai"
 
