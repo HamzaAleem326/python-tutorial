@@ -10,3 +10,23 @@ chai_one = "ginger tea"
 chai_two = "lemon tea"
 chai_three = "masala chai"
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+string = "hamza"
+print(string)
